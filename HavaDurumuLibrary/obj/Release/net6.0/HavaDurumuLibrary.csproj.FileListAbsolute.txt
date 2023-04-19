@@ -1,0 +1,24 @@
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\bin\Release\net6.0\HavaDurumuLibrary.deps.json
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\bin\Release\net6.0\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\bin\Release\net6.0\HavaDurumuLibrary.pdb
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.csproj.AssemblyReference.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.AssemblyInfoInputs.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.AssemblyInfo.cs
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\refint\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.pdb
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\ref\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\bin\Release\net6.0\HavaDurumuLibrary.deps.json
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\bin\Release\net6.0\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\bin\Release\net6.0\HavaDurumuLibrary.pdb
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.csproj.AssemblyReference.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.AssemblyInfoInputs.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.AssemblyInfo.cs
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\refint\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\HavaDurumuLibrary.pdb
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumuLibrary\obj\Release\net6.0\ref\HavaDurumuLibrary.dll

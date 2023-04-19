@@ -1,0 +1,42 @@
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.exe
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.deps.json
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.runtimeconfig.json
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.pdb
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuLibrary.pdb
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.AssemblyReference.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.FrmHavaDurumu.resources
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.GenerateResource.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.AssemblyInfoInputs.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.AssemblyInfo.cs
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.CopyComplete
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\refint\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.pdb
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.genruntimeconfig.cache
+D:\Belgelerim\Programlarım\C#\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\ref\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.exe
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.deps.json
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.runtimeconfig.json
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuUI.pdb
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuLibrary.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\bin\Release\net6.0-windows\HavaDurumuLibrary.pdb
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.AssemblyReference.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.FrmHavaDurumu.resources
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.GenerateResource.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.AssemblyInfoInputs.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.AssemblyInfo.cs
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.csproj.CopyComplete
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\refint\HavaDurumuUI.dll
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.pdb
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\HavaDurumuUI.genruntimeconfig.cache
+D:\Belgelerim\Programlarım\C#\+ Github\HavaDurumu\HavaDurumu\obj\Release\net6.0-windows\ref\HavaDurumuUI.dll
